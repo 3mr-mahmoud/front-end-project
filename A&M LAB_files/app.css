@@ -10615,16 +10615,16 @@ a.text-dark:focus {
 }
 @font-face {
   font-family: 'SwissraLight';
-  src: url("/fonts/Swissra Light.otf?eb78454f5e01cb7864546073bc9b4951");
+  src: url("https://3mr-mahmoud.github.io/front-end-project/fonts/Swissra Light.otf?eb78454f5e01cb7864546073bc9b4951");
 }
 
 @font-face {
   font-family: 'SwissraNormal';
-  src: url("/fonts/Swissra Normal.otf?f447a4e8356eb47017ac6377b049e366");
+  src: url("https://3mr-mahmoud.github.io/front-end-project/fonts/Swissra Normal.otf?f447a4e8356eb47017ac6377b049e366");
 }
 
 @font-face {
   font-family: 'SwissraMedium';
-  src: url("/fonts/Swissra Medium.otf?e267e9b3fef5752fbf01484214eac34f");
+  src: url("https://3mr-mahmoud.github.io/front-end-project/fonts/Swissra Medium.otf?e267e9b3fef5752fbf01484214eac34f");
 }
 
